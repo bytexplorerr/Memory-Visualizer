@@ -65,5 +65,5 @@ Before running this project, make sure you have the following installed:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/devrajsinh-d-jethwa/Memory-Visualizer.git
+   git clone https://github.com/bytexplorerr/Memory-Visualizer.git
    cd Memory-Visualizer
