@@ -42,7 +42,7 @@ Optimal page replacement is an ideal algorithm that replaces the page that will 
 - Interactive visualization of memory allocation and page replacement processes
 - Support for both **Fixed Size Partitions** and **Variable Size Partitions**
 - Calculation of **internal fragmentation** and **external fragmentation** for memory allocation algorithms
-- Calculation of **Page Faults** and **Page Hit Ratio** for page replacement algorithms
+- Calculation of **Page Faults** for page replacement algorithms
 - User-friendly interface to compare the performance of different algorithms
 
 ## Technologies Used
@@ -66,4 +66,4 @@ Before running this project, make sure you have the following installed:
 
    ```bash
    git clone https://github.com/devrajsinh-d-jethwa/Memory-Visualizer.git
-   cd Memory Visualizer
+   cd Memory-Visualizer
